@@ -1,0 +1,19 @@
+.todolist{
+	background-color: black;
+	color: white;
+	border:2px solid black;
+	border-radius: 10px;
+	margin:0px 20px;
+	text-align: center;
+}
+#todo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height:70vh;
+}
+#main{
+	background-color: skyblue;
+	padding: 20px;
+	border-radius: 10px;
+}
